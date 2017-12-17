@@ -3,11 +3,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace L2DbUnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class L2DbTests
     {
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
